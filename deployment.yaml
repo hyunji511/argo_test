@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: hyeonji511/cicd-k8s:latest
+        image: hyeonji511/cicd-k8s:9
         ports:
         - containerPort: 8080
 
